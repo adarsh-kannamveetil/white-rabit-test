@@ -1,0 +1,15 @@
+.login-container {
+  width: 300px;
+  padding: 10px;
+  .title {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .form-group {
+    .field-label {
+      margin: 0;
+      font-size: 16px;
+    }
+  }
+}
